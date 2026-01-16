@@ -1,0 +1,19 @@
+.classes {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#idtwo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.classes.three {
+    font-size: 24px;
+}
+
+#idfour {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: 700;
+}
